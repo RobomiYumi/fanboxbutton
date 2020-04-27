@@ -14,7 +14,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 * Copy paste the fanboxtopixvbutton.js into your new tamper monkey script.
 
-* Then under the settings tab. Look for the include/exclude section and add *.fanbox.cc/*
+* Then under the settings tab. Look for the include/exclude section and add **.fanbox.cc/**
 
 ![Image](https://i.imgur.com/Uh8Fu0W.png)
 
