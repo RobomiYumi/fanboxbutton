@@ -1,7 +1,7 @@
 # Description
 Creates a button fixed at the top left corner when on a Fanbox page. The link redirects to the artist pixiv.net page.
 
-![Preview](https://i.imgur.com/TEobUJH.png)
+![Preview](https://i.imgur.com/ocd3cVx.png)
 
 # Usage
 
