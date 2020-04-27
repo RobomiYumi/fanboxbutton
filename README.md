@@ -3,7 +3,6 @@ Creates a button fixed at the top left corner when on a Fanbox page. The link re
 
 # Usage
 
-## Requirements
 We'll need some sort of way to inject javascript to a webpage.
 
 ### Tamper Monkey
