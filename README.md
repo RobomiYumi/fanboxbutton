@@ -18,4 +18,4 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 ![Image](https://i.imgur.com/Uh8Fu0W.png)
 
-* Save and it should work as long as Tamper Monkey is enabled.
+* Save and it should work. When Tamper Monkey is enabled.
