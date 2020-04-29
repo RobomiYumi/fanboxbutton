@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name         Fanbox.cc Button
+// @namespace    http://tampermonkey.net/
+// @version      0.2
+// @description  creates a button on a fanbox.cc page that redirects to the artist page
+// @author       Shana the pizza destroyer
+// @match        https://github.com/shananyan/fanboxbutton
+// @grant        none
+// @run-at document-start
+// ==/UserScript==
+
 //Notes
 //PIXIV when javascript is disable load a white page.
 //PIXIV loads the webpage's content with 7 XHR calls
